@@ -9,7 +9,8 @@ This polls api gives overview of DRF functionality like:
 - APIView
 - viewsets
 - Serializers
-- Routers etc...
+- Routers 
+- Core API Documentation
 ### Refrence Book/Document
 [Building APIs with Django and Django Rest Framework](https://books.agiliq.com/projects/django-api-polls-tutorial/en/latest/index.html)
 ### Prerequisites
